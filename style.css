@@ -1,0 +1,171 @@
+body{
+    background-color: rgb(153, 181, 160);
+    background-color: ;
+    padding-left: 250px;
+    padding-right: 250px;
+    position: static;
+}
+header{
+    background-image: url(designnn.jpg);
+    margin-bottom: 600px;
+    padding-bottom: 0px;
+    position: relative;
+    z-index: 1000;
+}
+footer{
+    background-image: url(designnn.jpg);
+    padding-top: 10px;
+    position: relative;
+    z-index: 1;
+    
+}
+.cadre{
+    background-color: white;
+}
+#nom{
+    font-size: 50px;
+    color: white;;
+    padding-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#prenom{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 100px;
+    color: white;
+    font-size: 25px;
+}
+
+#fb{
+    padding-left: 15px;
+}
+
+#insta{
+    padding-left: 15px;
+}
+
+#left{
+    background-color: rgb(238, 238, 232);
+    width: 250px;
+    height:620px ;
+    position: absolute;
+    z-index: 1;
+    top: 77px;
+}
+
+
+#imn{
+    margin-left: 70px;
+    border: 4px solid rgb(69, 102, 3);
+    border-radius:100px;
+}
+.ens{
+    background-color: rgb(69, 102, 3) ;
+    color: white;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 5px;
+}
+.cl{
+    padding-top: 5px;
+    margin-left: 10px;
+ 
+}
+
+
+
+.gi{
+    width: 16px;
+    padding-left: 15px;
+    padding-top: 5px;;
+    position: relative;
+    
+ }
+
+
+span{
+
+    position: absolute;
+    top: -25px;
+    
+}
+
+.contact{
+    padding-left: 59px;
+    position: relative;
+    font-size: 11px;
+   
+}
+
+#cl1{
+    padding-top: 5px; 
+    padding-left: 100px;
+}
+.ens1{
+    background-color: rgb(69, 102, 3) ;
+    height: 30px;
+    width: 50px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 5px;
+    margin-top: 10px;
+    
+    position: relative;
+    
+}
+
+.ens2{
+    font-size: 10px;
+    background-color: rgb(69, 102, 3) ;
+    color: white;
+    height: 15px;
+    width: 150px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 5px;
+    margin-top: 0px;
+    padding-top 0px;
+    padding-left: 5px;
+}
+.ft{
+    padding-bottom: 0px;
+    margin-bottom: 0px;   
+}
+
+.right{
+    position: absolute;
+    right: 300px;
+    top: 140px;
+    background-color: white;
+    width: 550px;
+    height:500px ;
+
+}
+
+.ensP{
+    background-color: rgb(69, 102, 3) ;
+    color: white;
+    height: 30px;
+    width: 50px;
+    text-align: center;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 5px;
+    padding-left: 100px;
+}
+
+.p1{
+    padding-left: 110px;
+    font-size: 13px;
+}
+
+.ens3{
+    background-color: rgb(69, 102, 3) ;
+    color: white;
+    height: 30px;
+    width: 500px;
+    text-align: center;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 5px;
+}
